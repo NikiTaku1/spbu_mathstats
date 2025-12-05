@@ -12,8 +12,8 @@ hist(babyboom$V4, main = "Number of minutes after midnight of each birth",
 # 2. Ящики с усами
 # ==========================
 par(mfrow = c(1,2))
-boxplot(babyboom$V3, main = "Birth weight in grams")
-boxplot(babyboom$V4, main = "Number of minutes after midnight of each birth")
+boxplot(babyboom$V3, main = "Birth weight in grams", horizontal = TRUE)
+boxplot(babyboom$V4, main = "Number of minutes after midnight of each birth", horizontal = TRUE)
 
 #Усы идут до ближайших точек, не выходящих за 1.5 * IQR от квартилей. Точки за пределами — считаются выбросами и отображаются отдельно.
 #Линия внутри - медиана.
@@ -44,7 +44,12 @@ stats_V4
 cor_matrix <- cor(babyboom[, c("V3","V4")])
 cor_matrix
 
+# Birth weight:
 # Гистограмма: пик ближе к правому краю
-# Boxplot: медиана ближе к верхней границе ящика, нижний ус длиннее верхнего, несколько выбросов снизу.
+# Boxplot: медиана ближе к верхней(правой) границе ящика, нижний(левый) ус длиннее верхнего(правого), несколько выбросов снизу(слева).
+# Соответственно имеем отрицательную ассиметрию
 
+# Number of minutes:
+# Гистограмма: пик ближе к правому краю
+# Boxplot: медиана ближе к верхней(правой) границе ящика, нижний(левый) ус длиннее верхнего(правого)
 # Соответственно имеем отрицательную ассиметрию

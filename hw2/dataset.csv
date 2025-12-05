@@ -1,0 +1,501 @@
+Height,Gender,TimeBetweenVisits,DailySteps,Weight,City
+175,2,9,7020,82,Moscow
+169,2,14,6922,81,Kazan
+176,2,27,6942,88,Saint Petersburg
+185,1,9,7007,81,Kazan
+168,2,29,6780,75,Moscow
+168,1,16,6989,86,Kazan
+186,1,24,6955,70,Kazan
+178,2,17,6787,57,Saint Petersburg
+165,1,10,7034,68,Saint Petersburg
+175,1,89,6989,59,Saint Petersburg
+165,1,43,6997,60,Moscow
+165,1,5,6896,68,Moscow
+172,2,61,6953,58,Saint Petersburg
+151,1,20,6921,65,Saint Petersburg
+153,2,67,7263,42,Moscow
+164,2,48,7042,73,Moscow
+160,1,17,7107,70,Moscow
+173,2,1,7047,58,Moscow
+161,2,9,7178,80,Saint Petersburg
+156,2,23,6999,84,Moscow
+185,1,30,7108,46,Saint Petersburg
+168,2,9,7047,59,Kazan
+171,2,5,6926,58,Kazan
+156,2,54,6975,56,Moscow
+165,1,125,6878,82,Kazan
+171,2,22,7109,67,Kazan
+158,1,6,7016,66,Kazan
+174,1,10,7113,40,Moscow
+164,1,1,6958,80,Moscow
+167,1,74,7082,51,Kazan
+164,1,4,7079,71,Saint Petersburg
+189,1,26,7086,74,Kazan
+170,2,10,7010,90,Moscow
+159,1,24,6957,50,Moscow
+178,2,32,6975,25,Moscow
+158,2,53,6973,73,Kazan
+172,1,7,6933,97,Saint Petersburg
+150,2,0,6929,89,Moscow
+157,2,4,7025,73,Moscow
+172,2,69,7029,63,Kazan
+177,2,62,6971,82,Saint Petersburg
+172,1,27,7004,55,Kazan
+169,2,28,6971,77,Moscow
+167,1,33,7019,78,Saint Petersburg
+155,2,6,7026,86,Saint Petersburg
+163,2,74,7084,111,Moscow
+165,1,16,7204,76,Saint Petersburg
+181,2,14,6919,62,Saint Petersburg
+173,2,22,7036,70,Kazan
+152,2,1,6934,43,Moscow
+173,1,5,6964,60,Moscow
+166,2,40,6997,64,Moscow
+163,1,3,6946,62,Moscow
+176,2,28,7080,72,Moscow
+180,1,8,6953,58,Saint Petersburg
+179,1,15,7054,87,Kazan
+162,2,10,6979,70,Moscow
+167,2,13,6914,70,Kazan
+173,1,38,6914,65,Kazan
+180,1,11,7052,72,Saint Petersburg
+165,2,25,7016,82,Moscow
+168,1,19,7081,57,Saint Petersburg
+159,2,33,7193,60,Moscow
+158,2,83,7086,65,Saint Petersburg
+178,2,40,6930,50,Kazan
+184,2,7,7027,58,Moscow
+169,1,1,7094,63,Kazan
+180,2,9,6964,83,Kazan
+174,1,27,7073,74,Saint Petersburg
+164,2,2,7088,73,Moscow
+174,1,21,7041,83,Kazan
+185,2,27,7030,68,Saint Petersburg
+170,1,12,7021,76,Moscow
+186,1,44,7060,68,Moscow
+144,2,3,6926,74,Kazan
+178,2,2,7026,61,Moscow
+171,2,39,6931,33,Kazan
+167,2,21,7022,68,Moscow
+171,1,35,7048,91,Saint Petersburg
+150,2,17,6983,84,Kazan
+168,1,8,6891,84,Kazan
+174,1,51,7056,89,Moscow
+185,2,48,6943,71,Moscow
+165,1,36,6861,73,Kazan
+162,1,10,6918,61,Moscow
+165,1,27,6929,65,Saint Petersburg
+179,1,13,6844,79,Moscow
+173,2,3,6841,88,Saint Petersburg
+165,2,75,6931,68,Saint Petersburg
+175,2,4,7114,63,Saint Petersburg
+171,2,90,7008,70,Saint Petersburg
+180,1,18,6959,79,Saint Petersburg
+163,1,6,7014,48,Moscow
+167,2,23,6992,36,Saint Petersburg
+166,2,62,7015,62,Moscow
+155,2,40,6912,52,Saint Petersburg
+173,1,49,6921,62,Kazan
+173,2,32,6871,68,Saint Petersburg
+170,2,35,7065,63,Kazan
+168,2,57,7040,92,Saint Petersburg
+156,1,9,7152,75,Saint Petersburg
+166,1,20,6976,75,Saint Petersburg
+167,1,8,7009,79,Kazan
+162,1,132,7005,53,Kazan
+168,1,87,6864,86,Saint Petersburg
+174,1,1,6890,69,Moscow
+189,1,37,7073,80,Saint Petersburg
+172,1,78,6767,54,Kazan
+173,2,6,6940,47,Saint Petersburg
+169,2,25,6863,82,Kazan
+151,1,74,7013,76,Kazan
+170,1,1,6975,56,Kazan
+171,2,36,7024,57,Saint Petersburg
+195,1,11,7143,87,Kazan
+168,1,77,6884,52,Kazan
+173,1,106,6971,95,Saint Petersburg
+170,2,87,7107,56,Kazan
+158,2,19,7076,80,Saint Petersburg
+181,2,59,6857,65,Kazan
+178,2,56,6911,79,Moscow
+178,2,12,6963,62,Moscow
+161,1,53,7034,68,Kazan
+184,2,1,6893,71,Moscow
+156,1,27,7147,55,Saint Petersburg
+176,1,8,7025,81,Moscow
+192,2,4,6911,62,Kazan
+160,2,2,6976,67,Kazan
+164,1,36,6968,55,Saint Petersburg
+171,1,12,6954,32,Kazan
+165,1,39,6986,67,Saint Petersburg
+154,2,2,7034,106,Moscow
+171,2,11,7029,82,Moscow
+159,2,23,6902,70,Saint Petersburg
+175,2,47,7073,66,Saint Petersburg
+161,2,12,6826,70,Kazan
+185,1,29,6898,78,Moscow
+162,2,65,6951,52,Saint Petersburg
+167,1,29,7047,87,Moscow
+178,1,8,7084,81,Saint Petersburg
+158,1,1,6952,81,Moscow
+172,2,61,7006,77,Kazan
+183,2,1,6892,70,Moscow
+154,2,62,6988,80,Moscow
+172,1,23,6968,79,Moscow
+173,1,84,7089,65,Moscow
+178,1,48,7069,61,Moscow
+158,1,185,6980,72,Kazan
+157,1,13,7067,93,Saint Petersburg
+175,1,44,7008,51,Moscow
+173,2,15,7216,48,Kazan
+173,2,20,6880,72,Moscow
+173,2,30,6989,71,Moscow
+163,2,62,6872,73,Saint Petersburg
+172,1,124,6901,74,Moscow
+173,1,44,7060,67,Kazan
+163,2,16,6970,92,Kazan
+189,1,16,6990,46,Saint Petersburg
+175,2,40,7121,58,Moscow
+158,2,8,7075,68,Kazan
+177,2,4,7046,45,Moscow
+160,1,13,6938,67,Moscow
+178,2,10,6991,95,Moscow
+182,2,11,7039,70,Saint Petersburg
+162,2,8,7033,73,Moscow
+180,1,1,6840,51,Kazan
+174,1,1,6901,61,Moscow
+178,2,132,7003,64,Kazan
+189,1,17,6788,65,Moscow
+168,1,15,7054,89,Kazan
+162,1,34,6846,78,Kazan
+161,1,7,6964,53,Moscow
+162,1,90,6963,74,Moscow
+169,1,46,7039,77,Kazan
+173,1,3,6911,87,Saint Petersburg
+173,1,16,7039,94,Moscow
+178,1,63,6941,55,Saint Petersburg
+170,1,87,6858,58,Moscow
+185,2,19,6949,51,Moscow
+167,2,29,7030,66,Moscow
+197,1,5,6922,77,Moscow
+176,2,142,7028,85,Saint Petersburg
+161,2,8,7035,69,Moscow
+159,1,86,7079,65,Kazan
+175,1,31,7020,72,Kazan
+168,1,28,7084,57,Saint Petersburg
+177,2,22,6891,101,Moscow
+175,2,8,7153,46,Kazan
+169,1,6,6969,73,Saint Petersburg
+162,1,7,6986,100,Moscow
+155,1,6,7175,70,Kazan
+166,2,45,6887,67,Kazan
+179,2,13,7118,65,Saint Petersburg
+172,2,2,6947,67,Moscow
+158,2,104,7104,91,Moscow
+172,1,65,7143,37,Kazan
+174,1,79,7065,93,Kazan
+161,1,158,7095,49,Kazan
+172,1,6,7072,66,Moscow
+171,2,15,6912,64,Saint Petersburg
+159,2,43,6792,79,Saint Petersburg
+174,1,36,6892,46,Moscow
+176,1,5,7086,77,Saint Petersburg
+181,2,51,7001,100,Kazan
+181,1,8,7059,50,Saint Petersburg
+156,2,8,7021,73,Saint Petersburg
+161,1,23,6950,60,Saint Petersburg
+175,1,27,7046,76,Kazan
+175,1,26,7033,70,Moscow
+175,1,3,6905,60,Kazan
+209,1,63,6873,77,Moscow
+176,1,9,7079,97,Moscow
+181,1,4,7013,67,Moscow
+180,2,66,7028,81,Saint Petersburg
+177,2,93,6965,51,Saint Petersburg
+167,2,59,7013,56,Moscow
+178,2,50,7067,77,Moscow
+162,2,32,7062,92,Saint Petersburg
+168,1,24,7211,75,Kazan
+165,1,3,6958,65,Moscow
+171,2,16,6952,70,Kazan
+193,1,14,6988,51,Saint Petersburg
+151,2,9,7117,79,Moscow
+177,2,39,6974,83,Kazan
+154,1,21,7048,63,Kazan
+165,1,3,7029,63,Kazan
+181,1,7,7077,74,Saint Petersburg
+171,2,34,7021,63,Saint Petersburg
+159,1,2,7034,69,Kazan
+163,2,57,7019,101,Kazan
+177,2,21,7014,66,Saint Petersburg
+163,2,20,7043,65,Kazan
+172,1,27,6942,60,Kazan
+170,1,52,7000,81,Saint Petersburg
+163,2,13,6827,67,Kazan
+191,1,34,7074,60,Kazan
+176,1,25,7076,90,Kazan
+150,1,9,6986,91,Saint Petersburg
+172,2,63,6958,61,Kazan
+163,2,48,6864,42,Saint Petersburg
+179,1,32,7023,85,Saint Petersburg
+162,2,57,7034,60,Moscow
+169,1,61,7033,82,Moscow
+175,1,37,6885,40,Kazan
+179,1,54,7094,83,Saint Petersburg
+158,1,36,7017,52,Moscow
+167,2,34,6915,81,Kazan
+165,2,29,6960,70,Moscow
+163,2,42,6943,56,Moscow
+188,1,5,6950,64,Saint Petersburg
+174,1,64,6939,80,Saint Petersburg
+157,1,62,7110,72,Moscow
+179,2,1,6916,79,Moscow
+191,1,52,6990,100,Saint Petersburg
+180,2,4,6893,47,Kazan
+155,2,12,7057,94,Saint Petersburg
+165,2,41,6985,72,Moscow
+183,2,5,7068,57,Kazan
+163,2,51,7026,50,Moscow
+174,2,54,7064,67,Kazan
+178,1,21,7207,84,Moscow
+161,1,0,6825,68,Kazan
+169,2,10,6940,93,Kazan
+138,2,29,7132,48,Moscow
+160,1,119,6943,70,Kazan
+167,2,30,6988,51,Saint Petersburg
+158,2,9,6838,75,Moscow
+186,1,30,6756,83,Saint Petersburg
+156,2,23,7132,64,Moscow
+166,2,45,7008,31,Kazan
+171,2,3,6963,73,Kazan
+184,1,43,7165,77,Kazan
+156,1,23,6981,76,Moscow
+182,1,99,6938,89,Saint Petersburg
+170,2,13,6920,54,Saint Petersburg
+160,2,30,6991,80,Moscow
+175,1,81,7026,88,Moscow
+172,2,3,6883,43,Saint Petersburg
+164,2,83,6929,75,Saint Petersburg
+171,2,35,7099,62,Saint Petersburg
+166,2,2,7005,69,Saint Petersburg
+171,2,11,7103,75,Moscow
+177,1,37,6841,63,Moscow
+186,2,2,7010,60,Kazan
+158,1,26,6990,71,Saint Petersburg
+191,2,13,7099,54,Kazan
+150,1,29,6991,54,Moscow
+168,2,1,7037,80,Moscow
+176,1,62,6833,53,Kazan
+173,2,109,7082,80,Saint Petersburg
+164,1,104,6921,77,Saint Petersburg
+168,2,42,6907,44,Saint Petersburg
+165,1,4,7066,60,Saint Petersburg
+164,2,43,6922,88,Kazan
+178,1,1,7114,55,Kazan
+174,1,1,6933,63,Moscow
+163,2,12,6718,77,Saint Petersburg
+179,2,20,6991,82,Saint Petersburg
+173,1,44,7009,66,Saint Petersburg
+178,2,34,6877,61,Kazan
+176,1,18,7087,91,Saint Petersburg
+162,1,10,6922,96,Kazan
+164,1,176,6947,85,Saint Petersburg
+177,2,17,7018,71,Saint Petersburg
+176,1,18,7079,58,Moscow
+170,1,5,7139,58,Saint Petersburg
+171,2,48,6905,78,Saint Petersburg
+183,2,35,7077,76,Moscow
+164,2,7,7102,91,Kazan
+175,2,3,6897,80,Kazan
+168,1,34,6915,47,Saint Petersburg
+168,1,32,7037,86,Kazan
+181,1,10,6986,55,Saint Petersburg
+178,1,90,6859,64,Moscow
+178,2,5,7081,74,Moscow
+183,1,17,7032,100,Saint Petersburg
+170,1,86,7115,117,Moscow
+177,2,16,6906,79,Moscow
+167,1,31,7014,67,Saint Petersburg
+173,1,15,7055,78,Saint Petersburg
+169,1,10,6855,83,Moscow
+171,1,124,6916,65,Kazan
+176,1,16,7086,97,Kazan
+162,1,67,7052,73,Saint Petersburg
+191,2,8,6993,77,Saint Petersburg
+160,2,7,6990,80,Kazan
+158,1,1,6999,76,Moscow
+182,1,32,6960,83,Kazan
+178,2,14,7053,61,Kazan
+176,1,60,6874,62,Kazan
+176,1,19,6897,53,Kazan
+170,1,103,6988,77,Saint Petersburg
+161,2,6,7037,82,Saint Petersburg
+171,1,61,6964,77,Moscow
+163,2,45,6993,95,Moscow
+180,1,44,7032,70,Moscow
+169,2,56,7043,80,Moscow
+162,2,43,7046,54,Kazan
+167,1,30,6911,64,Saint Petersburg
+174,2,4,6929,80,Saint Petersburg
+164,1,1,6945,83,Moscow
+162,2,76,7048,66,Moscow
+172,1,29,6952,69,Kazan
+172,1,48,7037,47,Kazan
+165,2,20,7109,65,Moscow
+165,1,4,7075,83,Saint Petersburg
+172,1,4,6939,79,Saint Petersburg
+156,2,35,7042,78,Saint Petersburg
+156,1,17,6881,71,Moscow
+163,1,7,6991,70,Saint Petersburg
+168,2,20,7011,60,Kazan
+173,2,2,6982,80,Kazan
+185,1,26,7061,76,Moscow
+179,1,9,6945,77,Kazan
+168,2,48,6948,62,Moscow
+170,2,11,7065,38,Saint Petersburg
+160,1,18,7057,86,Saint Petersburg
+170,2,0,7090,63,Saint Petersburg
+167,1,2,7110,57,Kazan
+173,1,15,7050,80,Moscow
+162,1,20,6871,64,Saint Petersburg
+175,1,27,6951,86,Moscow
+185,1,10,6950,79,Saint Petersburg
+169,2,36,7062,80,Kazan
+174,2,59,7129,50,Kazan
+177,2,45,7041,88,Moscow
+166,2,1,7121,74,Kazan
+172,1,20,6855,64,Kazan
+170,1,3,7078,72,Moscow
+171,1,8,7101,43,Saint Petersburg
+162,1,130,6836,76,Kazan
+170,2,5,7024,55,Moscow
+175,1,21,6868,50,Kazan
+185,1,29,7041,47,Kazan
+180,2,36,7113,87,Kazan
+192,2,25,7004,61,Kazan
+162,2,0,6955,93,Moscow
+179,2,12,7071,62,Moscow
+172,1,22,7122,44,Moscow
+192,1,3,7026,53,Kazan
+162,2,13,7022,89,Kazan
+162,1,1,6933,68,Kazan
+164,1,2,6876,62,Moscow
+149,1,15,6997,72,Kazan
+165,2,4,7191,78,Saint Petersburg
+162,1,25,7062,87,Kazan
+172,2,35,7032,92,Saint Petersburg
+173,1,48,6938,65,Kazan
+189,1,7,6993,50,Moscow
+180,1,5,6897,64,Kazan
+164,2,3,6996,74,Saint Petersburg
+161,1,30,7026,56,Saint Petersburg
+175,2,37,6923,56,Kazan
+157,2,1,6927,75,Saint Petersburg
+188,2,83,6879,69,Saint Petersburg
+182,1,2,7080,70,Moscow
+165,1,23,7003,59,Kazan
+153,1,37,7158,67,Kazan
+184,1,61,6863,56,Kazan
+169,2,38,6882,83,Saint Petersburg
+182,2,49,7002,86,Kazan
+154,2,12,6998,42,Kazan
+164,1,51,6943,56,Moscow
+170,2,3,6981,48,Moscow
+170,1,68,7133,60,Moscow
+165,2,24,7026,69,Saint Petersburg
+176,1,51,7087,48,Kazan
+159,1,18,7033,56,Moscow
+169,2,31,6939,55,Moscow
+171,2,22,7025,73,Moscow
+175,2,39,6883,71,Kazan
+177,2,3,6990,59,Kazan
+159,1,2,6887,73,Kazan
+155,2,9,7064,62,Saint Petersburg
+183,2,5,6856,66,Saint Petersburg
+173,2,62,7173,95,Moscow
+163,1,7,7044,90,Kazan
+186,1,112,7022,51,Moscow
+171,2,12,7033,82,Kazan
+182,1,6,7027,82,Kazan
+171,2,47,7056,53,Kazan
+191,1,32,7129,82,Saint Petersburg
+188,1,21,7008,93,Saint Petersburg
+168,1,24,6949,53,Kazan
+180,1,38,7018,56,Moscow
+176,2,8,6888,85,Kazan
+184,2,168,6962,74,Kazan
+160,2,110,7037,78,Moscow
+177,1,32,7047,75,Kazan
+181,2,7,7042,76,Moscow
+152,2,34,6952,50,Saint Petersburg
+158,2,2,6987,86,Saint Petersburg
+150,1,1,7087,88,Moscow
+167,1,9,7141,67,Saint Petersburg
+177,1,19,6955,69,Saint Petersburg
+185,2,61,6969,47,Moscow
+171,2,39,7051,78,Saint Petersburg
+186,2,41,6970,79,Kazan
+156,1,17,6983,69,Kazan
+153,1,13,7120,87,Moscow
+169,2,14,6903,65,Saint Petersburg
+174,1,132,7035,78,Kazan
+170,1,1,6961,55,Kazan
+149,1,61,6978,70,Saint Petersburg
+169,1,26,7043,67,Saint Petersburg
+157,2,17,6967,73,Kazan
+177,1,39,7046,64,Kazan
+174,1,20,6997,68,Moscow
+161,1,62,7001,82,Moscow
+165,1,69,6972,63,Kazan
+159,2,16,6905,46,Moscow
+169,2,10,7065,96,Kazan
+180,1,27,6948,91,Kazan
+160,1,73,6884,51,Moscow
+175,1,7,6954,80,Moscow
+165,1,29,7025,62,Saint Petersburg
+162,1,30,7222,74,Saint Petersburg
+169,1,40,6972,74,Saint Petersburg
+160,2,4,7010,66,Kazan
+164,1,38,7013,58,Moscow
+158,2,72,7067,60,Kazan
+190,2,6,6986,56,Moscow
+170,1,8,6939,58,Kazan
+163,2,107,6826,69,Saint Petersburg
+172,2,6,7014,59,Saint Petersburg
+169,2,58,7019,80,Saint Petersburg
+168,2,20,6987,92,Kazan
+176,2,9,6997,61,Moscow
+178,2,61,7030,74,Moscow
+165,1,18,7029,77,Saint Petersburg
+164,2,22,6975,77,Saint Petersburg
+167,2,13,6994,71,Saint Petersburg
+147,2,27,7134,81,Saint Petersburg
+155,1,5,7008,77,Moscow
+184,2,15,6892,51,Kazan
+186,1,105,6889,83,Kazan
+168,2,9,6944,83,Kazan
+176,1,32,7177,59,Kazan
+173,1,12,6991,71,Saint Petersburg
+201,2,45,6996,80,Saint Petersburg
+181,2,4,7021,67,Saint Petersburg
+169,1,105,6947,86,Kazan
+160,2,18,7067,105,Saint Petersburg
+154,1,8,7003,58,Saint Petersburg
+172,1,2,7018,49,Moscow
+162,1,6,7089,75,Moscow
+156,1,22,7017,81,Saint Petersburg
+164,1,12,6921,67,Moscow
+159,2,53,7100,92,Moscow
+187,1,17,7097,50,Saint Petersburg
+179,1,9,6834,80,Saint Petersburg
+170,2,29,6988,61,Saint Petersburg
+185,1,37,7030,96,Saint Petersburg
+171,2,5,7046,100,Kazan
+161,2,6,7047,59,Kazan
+185,2,1,6950,62,Saint Petersburg
+175,1,40,7081,83,Moscow
+160,1,33,7043,64,Saint Petersburg
+168,1,19,6949,69,Saint Petersburg
+161,2,56,7060,70,Moscow
+156,1,49,7061,41,Kazan
